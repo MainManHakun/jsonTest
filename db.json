@@ -1,5 +1,7 @@
-info: {
+{
+        info: {
         navn: '',
         epost: '',
         melding: '',
       }
+}
