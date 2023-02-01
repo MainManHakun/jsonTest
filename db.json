@@ -1,8 +1,9 @@
 {
   "info": {
-        navn: "",
-        epost: "",
-        melding: "",
+        "navn": "",
+        "epost": "",
+        "melding": ""
       }
 }
+
 
